@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "${128+$(printenv TRUEKNOWLEDGE)}\n"
+echo "expr 128 + $(printenv TRUEKNOWLEDGE)\n"
