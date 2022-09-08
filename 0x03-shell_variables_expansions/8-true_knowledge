@@ -1,2 +1,2 @@
 #!/bin/bash
-printf("$(18+$(printenv TRUEKNOWLEDGE))\n
+printf "$(18+$(printenv TRUEKNOWLEDGE))\n"
